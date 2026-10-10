@@ -1,0 +1,1 @@
+{"$schema":"https://openapi.vercel.sh/vercel.json","regions":["fra1"],"functions":{"api/index.js":{"maxDuration":120}},"rewrites":[{"source":"/api","destination":"/api/index"}]}
